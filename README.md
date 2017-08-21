@@ -9,6 +9,8 @@ URL : http://hdr.undp.org/fr/data<br>
 URL : http://data.unhcr.org/SouthSudan/regional.php<br>
 <li>du site de l'IPC Info consulté en août 2017<br>
 URL : http://www.ipcinfo.org/ipcinfo-detail-forms/ipcinfo-map-detail/fr/c/897035/<br>
+<li>du site de l'UNICEF consulté en août 2017<br>
+URL : https://www.unicef.org/appeals/south_sudan_crisis.html<br>
 
 
 Fond vectoriel issu de :
